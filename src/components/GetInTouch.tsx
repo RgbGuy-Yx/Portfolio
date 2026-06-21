@@ -126,7 +126,7 @@ export default function GetInTouch() {
           >
             <Mail className="w-4 h-4 text-soft-grey group-hover:text-light-text transition-colors" />
             <span className="font-mono text-xs sm:text-sm tracking-widest text-[#F5F5F5]">
-              YSO609392@GMAIL.COM
+              connect.yuvrajchauhan@gmail.com
             </span>
             <div className="w-[1px] h-4 bg-white/20 mx-1" />
             <button
